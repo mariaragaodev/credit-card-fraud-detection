@@ -208,7 +208,7 @@ Além de comparar os modelos, também foi testada a alteração do limiar de dec
 O threshold padrão de muitos classificadores é `0.5`. Neste projeto, foi testado um threshold de:
 0.30
 
-###Resultado
+### Resultado
 
 Com esse ajuste, o resultado para a classe de fraude foi:
 
